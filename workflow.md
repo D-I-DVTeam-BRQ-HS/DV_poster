@@ -16,7 +16,7 @@
   
 ### 2.图表设计
 * 根据想要传达的洞察选择图表类型表现数据
-* 使用Matplotlib生成图表
+* 使用Matplotlib生成图表 [Matplotlib示例](https://matplotlib.org/stable/gallery/index.html)
   
 ### 3.插画与平面图形
 * 使用Adobe Illustrator搭配AI制作插画，图标，图形
