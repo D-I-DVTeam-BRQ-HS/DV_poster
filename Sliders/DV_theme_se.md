@@ -102,7 +102,6 @@ _class: position-layout
   可视化目标
   目标受众
   核心图表类型
-  设计原则
   初步设计稿
 </div>
 <div>
@@ -169,14 +168,14 @@ _class: position-layout
 
 **可视化目标**
 <div class="small-text">
-111
+向大众介绍钟馗这个文化符号，弘扬中国传统文化。用
 </div>
 </div>
 <div>
 
 **目标受众**
 <div class="small-text">
-222
+任何对中国传统文化或者钟馗这个文化符号感兴趣的人
 </div>
 </div>
 <div>
